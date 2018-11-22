@@ -56,30 +56,30 @@ img {
   .photo:nth-child(1) {
 
     width: 100%;
-    display: flex;
+    display: block;
   }
 
   .photo:nth-child(2) {
 
-    display: flex;
+    display: block;
     width: 50%;
   }
 
   .photo:nth-child(5) {
 
-    display: flex;
+    display: block;
     width: 50%;
   }
 
   .photo:nth-child(4) {
 
-    display: flex;
+    display: block;
     width: 50%;
   }
 
   .photo:nth-child(3) {
 
-    display: flex;
+    display: block;
     width: 50%;
   }
 
@@ -96,31 +96,31 @@ img {
   .photo:nth-child(1) {
 
     width: 100%;
-    display: flex;
+    display: block;
   }
 
   .photo:nth-child(2) {
 
-    display: flex;
-    width: 33.3%;
+    display: block;
+    width: 33.3333%;
   }
 
   .photo:nth-child(5) {
 
     display: none;
-    width: 33%;
+    width: 33.3333%;
   }
 
   .photo:nth-child(4) {
 
-    display: flex;
-    width: 33.3%;
+    display: block;
+    width: 33.3333%;
   }
 
   .photo:nth-child(3) {
 
-    display: flex;
-    width: 33.3%;
+    display: block;
+    width: 33.3333%;
   }
 
 }
@@ -135,32 +135,32 @@ img {
 
   .photo:nth-child(1) {
 
-    width: 66.6%;
-    display: flex;
+    width: 66.6666%;
+    display: block;
   }
 
   .photo:nth-child(2) {
 
-    display: flex;
-    width: 33.3%;
+    display: block;
+    width: 33.3333%;
   }
 
   .photo:nth-child(5) {
 
-    display: flex;
-    width: 33.3%;
+    display: block;
+    width: 33.3333%;
   }
 
   .photo:nth-child(4) {
 
-    display: flex;
-    width: 33.3%;
+    display: block;
+    width: 33.3333%;
   }
 
   .photo:nth-child(3) {
 
-    display: flex;
-    width: 33.3%;
+    display: block;
+    width: 33.3333%;
   }
 
 }
